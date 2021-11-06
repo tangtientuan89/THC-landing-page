@@ -33,3 +33,5 @@ function submitForm() {
     }
   });
 }
+
+console.log('release 06/11/2021');
