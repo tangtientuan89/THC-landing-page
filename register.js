@@ -34,4 +34,4 @@ function submitForm() {
   });
 }
 
-console.log('release 06/11/2021');
+console.log('form register 06/11/2021');
